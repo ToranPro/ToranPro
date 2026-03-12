@@ -27,5 +27,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToranPro&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border=30363D&hide_border=false&border_radius=10" height="160" alt="GitHub Streak" />
 </p>
 <div align="center">
-  <img src="[DÁN_LINK_ẢNH_HOẶC_GIF_VÀO_ĐÂY](https://fastcdn.hoyoverse.com/content-v2/hk4e/157794/5a44934fb858d64c058e3bba548e009a_4056325258114138776.jpg)" width="500" alt="Anime GIF" />
+  <img src="https://fastcdn.hoyoverse.com/content-v2/hk4e/157794/5a44934fb858d64c058e3bba548e009a_4056325258114138776.jpg" width="500" alt="Anime GIF" />
 </div>
