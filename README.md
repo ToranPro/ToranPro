@@ -11,6 +11,16 @@
 🌱 Mục tiêu: Xây dựng nền tảng thuật toán vững chắc và khám phá công nghệ mới
 
 <br>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhpbnA1Zm9oYXRncHpqMzF5a3JvdWo1a3J0amt4NTF6M2F6aGgwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cko4WTdapaxhX0iw2F/giphy.gif" width="100%" />
+    </td>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQxZHA1eXcwZWp4cnd6bTd3bXZtajJhaHp0ajM5a2JwNXg3ZzAxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIYOpmEC16sWVQtOs3/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Kỹ năng & Công cụ (Tech Stack)
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python" />
