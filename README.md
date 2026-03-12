@@ -28,3 +28,6 @@
 </p>
 
 </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToranPro&layout=compact&langs_count=5&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false&border_radius=10" width="350" alt="Top Languages" />
+</p>
